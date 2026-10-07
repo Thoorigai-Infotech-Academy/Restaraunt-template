@@ -1,0 +1,9 @@
+# The trainer team reviews every change in this repository.
+* @Thoorigai-Infotech-Academy/thoorigai-trainers
+
+# Protect repository governance and automation files explicitly.
+/.github/ @Thoorigai-Infotech-Academy/thoorigai-trainers
+
+# Authentication and Supabase integration require trainer review.
+/src/context/AuthContext.jsx @Thoorigai-Infotech-Academy/thoorigai-trainers
+/src/lib/supabase.js @Thoorigai-Infotech-Academy/thoorigai-trainers

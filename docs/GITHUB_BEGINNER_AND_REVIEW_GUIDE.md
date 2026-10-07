@@ -253,16 +253,18 @@ Create or use a GitHub organization team named `Trainers`. Give the team the rep
 
 A `.github/CODEOWNERS` file can automatically request review from the trainer team. Replace the example team slug with the real slug shown in the GitHub team URL:
 
+This repository uses the verified organization team slug:
+
 ```text
 # Default owner for every repository file
-* @Thoorigai-Infotech-Academy/trainers
+* @Thoorigai-Infotech-Academy/thoorigai-trainers
 
 # Protect workflow, templates, and ownership rules
-/.github/ @Thoorigai-Infotech-Academy/trainers
+/.github/ @Thoorigai-Infotech-Academy/thoorigai-trainers
 
 # Security and authentication changes
-/src/context/AuthContext.jsx @Thoorigai-Infotech-Academy/trainers
-/src/lib/supabase.js @Thoorigai-Infotech-Academy/trainers
+/src/context/AuthContext.jsx @Thoorigai-Infotech-Academy/thoorigai-trainers
+/src/lib/supabase.js @Thoorigai-Infotech-Academy/thoorigai-trainers
 ```
 
 The `CODEOWNERS` file must exist on the pull request's base branch. For intern pull requests, add it to `codex/restaurant-mvp`. Enable **Require review from Code Owners** in the rule protecting that branch.
