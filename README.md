@@ -222,6 +222,14 @@ Content is stored per-browser in `localStorage`. Edits do **not** sync across de
 - [ ] Automated tests (Vitest + Playwright)
 - [ ] Deploy to Vercel
 
+### Implementation project
+
+The repository includes a structured internship plan for turning this prototype into the first release of a reusable business website platform:
+
+- [Phase 0 and Phase 1 Implementation Plan](docs/PHASE_0_1_IMPLEMENTATION.md)
+- [GitHub Project Setup and Tracking Guide](docs/GITHUB_PROJECT_TRACKING.md)
+- [Contribution Guide](CONTRIBUTING.md)
+
 ---
 
 ## 📜 Scripts
