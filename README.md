@@ -228,6 +228,8 @@ The repository includes a structured internship plan for turning this prototype 
 
 - [Phase 0 and Phase 1 Implementation Plan](docs/PHASE_0_1_IMPLEMENTATION.md)
 - [GitHub Project Setup and Tracking Guide](docs/GITHUB_PROJECT_TRACKING.md)
+- [Intern Developer Onboarding Guide](docs/INTERN_DEVELOPER_ONBOARDING.md)
+- [GitHub Beginner and Trainer Review Guide](docs/GITHUB_BEGINNER_AND_REVIEW_GUIDE.md)
 - [Contribution Guide](CONTRIBUTING.md)
 
 ---

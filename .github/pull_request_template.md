@@ -2,7 +2,9 @@
 
 Describe the user-visible or engineering outcome.
 
-Closes #
+Refs #
+
+> Internship PRs target `codex/restaurant-mvp`, so use `Refs #<issue>` and link the issue in the Development sidebar. The final release PR to `main` may use `Closes #<issue>`.
 
 ## Changes
 
